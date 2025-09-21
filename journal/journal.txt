@@ -6,3 +6,15 @@ section 0203
 I used created a journal text file in github now this week we are 
 using ai to explain python and even use ai to help us correct our code
 and also use ai to give us ideas for different ways of writing our code.
+
+This week I got a deep understanding of how to use many tools such as 
+len and range in python through the weekly assignment and I was also
+able to get a lot of practice with working on different kinds of loops.
+this week was very productive and I finished a lot of my assignments early
+and I was able to use co pilot to help me with anything I didnt understand 
+in the class.
+
+there were many things i struggled with at first when I started like
+making a basic menu loop using (while + if/elif/else, no functions) but
+I had enoph resources online to help me undertand what information I was
+lacking in order to solve the problems.
