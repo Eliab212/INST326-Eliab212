@@ -18,3 +18,11 @@ there were many things i struggled with at first when I started like
 making a basic menu loop using (while + if/elif/else, no functions) but
 I had enoph resources online to help me undertand what information I was
 lacking in order to solve the problems.
+
+
+This week we workened on defining classes to do a task and it was fun and 
+interesting to see what kinds of codes we can make to do many different things.
+after the weekly practice i felt like I could make anything on pythong and
+saw all the creative freedome it gives me, I loved being able to do everything I 
+wanted and that was asked of me on my own without any help because after a while
+I started to see the patterns and I was able to code without stopping every 5 miniutes.
