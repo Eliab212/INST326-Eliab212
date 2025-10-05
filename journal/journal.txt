@@ -26,3 +26,9 @@ after the weekly practice i felt like I could make anything on pythong and
 saw all the creative freedome it gives me, I loved being able to do everything I 
 wanted and that was asked of me on my own without any help because after a while
 I started to see the patterns and I was able to code without stopping every 5 miniutes.
+
+
+This week we worked on defining more classes and initializing attributes which really 
+helped me learn how we can use calsses in different ways and initializing attribuites.
+I alos learned how putting peramiters in for objects in the class. I also want to learn 
+more on inharitance because It pair up hand to hand with classes and initializing.
