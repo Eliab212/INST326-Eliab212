@@ -30,5 +30,7 @@ I started to see the patterns and I was able to code without stopping every 5 mi
 
 This week we worked on defining more classes and initializing attributes which really 
 helped me learn how we can use calsses in different ways and initializing attribuites.
-I alos learned how putting peramiters in for objects in the class. I also want to learn 
-more on inharitance because It pair up hand to hand with classes and initializing.
+I alos learned how putting peramiters in for objects in the class. I also want to learn more on inharitance because It pair up hand to hand with classes and initializing.
+
+
+This week I was strugleing with a lot of my code on the week 5 exersise so I used claud to help me understand what I was doing wrong. Also was very busy with the project even when I am writing this we are still working on it. but other than that It has been fine its just a lot of course work due this week.
