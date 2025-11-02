@@ -36,4 +36,13 @@ I alos learned how putting peramiters in for objects in the class. I also want t
 This week I was strugleing with a lot of my code on the week 5 exersise so I used claud to help me understand what I was doing wrong. Also was very busy with the project even when I am writing this we are still working on it. but other than that It has been fine its just a lot of course work due this week.
 
 
-In week 6 I had a lot of problems foing the week 6 exercise which I found to be really hard so I was asking gemini for help whenever I got stuck. working with class methods was had for me at first but I think I am getting better but the class is starting to move very fast now!
+In week 6 I had a lot of problems foing the week 6 exercise which I found to be really
+hard so I was asking gemini for help whenever I got stuck. working with class methods 
+was had for me at first but I think I am getting better but the class is starting to
+move very fast now!
+
+
+Week 7, I constructed basic custom exception classes, learned how to raise my own 
+exceptions, worked through exception handling using try/except/else/finally, and began 
+using unittest to write rudimentary unit tests.  I initially had trouble remembering 
+when to use else or finally, and it felt a little strange to create my own exceptions.
