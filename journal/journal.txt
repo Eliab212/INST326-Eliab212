@@ -46,3 +46,6 @@ Week 7, I constructed basic custom exception classes, learned how to raise my ow
 exceptions, worked through exception handling using try/except/else/finally, and began 
 using unittest to write rudimentary unit tests.  I initially had trouble remembering 
 when to use else or finally, and it felt a little strange to create my own exceptions.
+
+
+Week 8, I concentrated on learning how classes may inherit from one another and how different sorts of objects can do different tasks using the same method name during Week 8. I made a parent class named Item and child classes that duplicate its code, such as Book, Magazine, and DVD. In order to allow the child classes to call the parent's code, I used super(). Additionally, I made the child classes override methods like check_out() so that the behavior is appropriate for each type of item. 
