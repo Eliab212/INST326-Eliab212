@@ -52,4 +52,8 @@ Week 8, I concentrated on learning how classes may inherit from one another and 
 
 Week 9, I learned about abstract base classes (ABCs) using @abstractmethod and abc.ABC in Week 9.  I created an abstract class named LibraryItemABC that has a property called item_type and a method called check_out().  Next, I developed subclasses that inherited from LibraryItemABC, such as BookItem, MagazineItem, and DVDItem, each of which defined item_type and implemented check_out().  In order for a class to fit into the hierarchy without direct inheritance, I also experimented with virtual subclass registration.
 
-week 10, I worked with Python's class and data-model tools in Week 10. I added special methods like __str__, __len__, __iter__, and __contains__, converted classes to @dataclass with built-in comparison and ordering, and used @property for controlled attributes.  In the end, I created items that serve as lightweight containers, validate their data, and are simple to compare and print.
+week 10, I worked with Python's class and data-model tools in Week 10. I added special
+methods like __str__, __len__, __iter__, and __contains__, converted classes to 
+@dataclass with built-in comparison and ordering, and used @property for controlled
+attributes.  In the end, I created items that serve as lightweight containers, 
+validate their data, and are simple to compare and print.
