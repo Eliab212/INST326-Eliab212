@@ -14,6 +14,7 @@ this week was very productive and I finished a lot of my assignments early
 and I was able to use co pilot to help me with anything I didnt understand 
 in the class.
 
+
 there were many things i struggled with at first when I started like
 making a basic menu loop using (while + if/elif/else, no functions) but
 I had enoph resources online to help me undertand what information I was
@@ -68,3 +69,5 @@ methods like __str__, __len__, __iter__, and __contains__, converted classes to
 @dataclass with built-in comparison and ordering, and used @property for controlled
 attributes.  In the end, I created items that serve as lightweight containers, 
 validate their data, and are simple to compare and print.
+
+week 12 I didnt really use much AI at all because we didnt have any assignemnt due this week but I started looking ar the final projects and asked chat gpt to give me a summery of what we had to do to succed and It gave me some really good insight on what i have to do.
