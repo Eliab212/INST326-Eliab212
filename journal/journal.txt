@@ -71,3 +71,5 @@ attributes.  In the end, I created items that serve as lightweight containers,
 validate their data, and are simple to compare and print.
 
 week 12 I didnt really use much AI at all because we didnt have any assignemnt due this week but I started looking ar the final projects and asked chat gpt to give me a summery of what we had to do to succed and It gave me some really good insight on what i have to do.
+
+Week 13 I started working on our final project this week.  In order to give each member of my team a distinct role to play, we divided up the primary tasks.  I asked ChatGPT to provide an overview of the project requirements and key phases in order to gain a better understanding of what we need to accomplish to succeed.  I was able to comprehend the breadth and determine my place by using ChatGPT's excellent summary of expectations.
